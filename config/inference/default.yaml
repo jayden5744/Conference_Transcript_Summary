@@ -1,0 +1,7 @@
+model_name: "kykim/bert-kor-base"
+model_path: "Result/train/Basic/Basic_best.pth"
+test_path: "data/test.json"
+submission_path: "data/sample_submission.csv"
+save_path: "Result/test/"
+save_name: "basic_result.csv"
+length_penalty: 1.7

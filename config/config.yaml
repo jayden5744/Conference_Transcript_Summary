@@ -1,0 +1,6 @@
+project_name: "Basic"
+defaults:
+  - data: default
+  - model: bert2bert
+  - trainer: default
+  - inference: default

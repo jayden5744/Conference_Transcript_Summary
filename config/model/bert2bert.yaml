@@ -1,0 +1,4 @@
+model_name: "kykim/bert-kor-base"
+pretrain_model: False
+pretrain_model_path: ""
+dp: 0.2
